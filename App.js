@@ -1,12 +1,12 @@
 import React from 'react';
 import { StyleSheet, View } from 'react-native';
-import Posts from "./components/Posts";
+import Posts from "./src/components/Posts";
 
 export default function App() {
 
   return (
     <View style={styles.container}>
-      <Posts />
+      <Posts/>
     </View>
   );
 }

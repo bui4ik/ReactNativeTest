@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91f1e321-ced5-466c-b6e6-0664c8e04247" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/components/DialogWindow.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/DialogWindow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageLoaderAndButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/postsRequest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/DialogWindow.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DialogWindow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ImageLoaderAndButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Posts.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +31,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="290" />
+    <option name="y" value="80" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
   <component name="ProjectId" id="1Pb2fdm6k5QmHlO3FRRVsmueOTr" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -30,15 +46,20 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pizzaparty" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566128579788</updated>
       <workItem from="1566128582767" duration="6404000" />
+      <workItem from="1566210494265" duration="5486000" />
     </task>
     <servers />
   </component>
